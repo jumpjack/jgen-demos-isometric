@@ -1,6 +1,6 @@
 krang({packages: {
 	// jGen: 'https://raw.github.com/angrycoding/jgen/master/src/jGen'
-	jGen : 'jGen.js'
+	jGen : 'script/jGen.js'
 }}).require([
 	'@jGen',
 	'@jGen!map!resources/map.json',
